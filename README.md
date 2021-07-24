@@ -7,9 +7,9 @@ Bharathi Ramana Joshi and William E. Byrd.
 
 # Files
 
-* shallow.rkt: shallow interpreter used in Section 1.1
-* shallow-examples.rkt: examples in shallow interpreter used to motivate deep
-    interpreter
-* paper-examples.rkt: metaKanren examples used throughout the paper (discussed
+* shallow.rkt: shallow embedding used in Section 1.1
+* shallow-examples.rkt: examples in shallow embedding used to motivate deep
+    embedding
+* paper-examples.rkt: metaKanren examples used in the paper (discussed
     in Section 3)
 * metaKanren.rkt: relational interpreter for metaKanren (discussed in Section 4)
